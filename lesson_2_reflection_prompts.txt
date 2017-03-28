@@ -10,6 +10,8 @@ The staging area is like the middle man. You take a file from the working direct
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+So once you have made your chnages under one logical change then you can add those files into the staging stage. Which gives you control of what files will be passed along before the commit is completed.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
